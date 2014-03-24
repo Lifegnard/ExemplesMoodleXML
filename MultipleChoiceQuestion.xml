@@ -21,11 +21,12 @@
 		</feedback>
 	</answer>
 	<answer fraction="0">
-		<text>Une autre mauvaise réponse</text>
+		<text>Une autre mauvaise réponse, tu es vraiment nul</text>
 		<feedback>
 			<text>Ooops!</text>
 		</feedback>
 	</answer>
 	<shuffleanswers>1</shuffleanswers>
 	<single>true</single>
+	
 </question>
